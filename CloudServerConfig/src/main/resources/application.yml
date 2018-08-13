@@ -7,8 +7,8 @@ spring:
       server:
         git:
           uri: https://github.com/arlymiguel/repository_general.git
-          username: arly.miguel.fernandez@gmail.com
-          password: Seguros201802
+          username: xxxx
+          password: xxxx
           
 endpoints:
   sensitive: true
